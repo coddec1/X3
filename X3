@@ -1,0 +1,29 @@
+<html><head>
+<title>coddec1.github.io</title>
+<style>#inspect-element-top-layer * { all: unset; }</style><style>
+      body.shimeji-pinned iframe {
+        pointer-events: none;
+      }
+      body.shimeji-select-ie {
+        cursor: cell !important;
+      }
+      #shimeji-contextMenu::-webkit-scrollbar {
+        width: 6px;
+      }
+      #shimeji-contextMenu::-webkit-scrollbar-thumb {
+        background-color: rgba(30,30,30,0.6);
+        border-radius: 3px;
+      }
+      #shimeji-contextMenu::-webkit-scrollbar-thumb:hover {
+        background: #555;
+      }
+    </style><meta name="shimejiBrowserExtensionId" content="gohjpllcolmccldfdggmamodembldgpc" data-version="2.0.5"></head>
+<body bgcolor="#fff">
+<table border="0" height="100%" width="100%" align="center" valign="middle">
+<tbody><tr height="100%">
+<td width="100%" height="100%" align="center" valign="middle"><img src="logo.png"><br><span style="color:#ccc;font-family:Arial">x2.picturissimo.net</span></td>
+</tr>
+</tbody></table>
+
+
+<div id="inspect-element-top-layer" popover="auto" data-inspect-element="inspectElement" style="pointer-events: none; border: unset; padding: 0px;"></div><div id="shimeji-workArea" style="position: fixed; background: transparent; z-index: 2147483643; width: 100vw; height: 100vh; left: 0px; top: 0px; transform: translate(0px, 0px); pointer-events: none;"></div><div id="css-checker-widget"></div></body></html>
